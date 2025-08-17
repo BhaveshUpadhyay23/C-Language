@@ -4,6 +4,8 @@ int main(){
     return 0;
 }
 
-// To Run
-// gcc <file-name>
-// ./a.exe
+/*
+    To Run
+    gcc <file-name>
+    ./a.exe
+*/

@@ -7,6 +7,9 @@
 
     3. Characters
         printf("hashtag %c", hashtag);
+
+
+    printf() is a library function
 */
 
 #include<stdio.h>

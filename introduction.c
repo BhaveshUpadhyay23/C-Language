@@ -1,4 +1,5 @@
-#include<stdio.h>
+#include<stdio.h>   // Preprocessor Directive
+
 int main(){
     printf("Hello, World\n");
     return 0;
@@ -6,6 +7,6 @@ int main(){
 
 /*
     To Run
-    gcc <file-name>
+    gcc <file-name> 
     ./a.exe
 */

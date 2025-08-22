@@ -1,7 +1,6 @@
-// Arithmetic operations
-
 #include <stdio.h>
-int main(){
+// Arithmetic operations
+int arithmetic(){
     int num1, num2, num3;
     float sum, avg;
 
@@ -26,5 +25,9 @@ int main(){
     printf("Product: %d\n",num4*num5);
 
     return 0;
+}
+
+int main(){
+    arithmetic();
 }
 

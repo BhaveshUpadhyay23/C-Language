@@ -16,7 +16,8 @@ This repo is my personal coding playground—a place to organize, revisit, and i
 You will find code related to various topics such as:
 
 - 💻 Basic syntax and programs (Hello World, variables, input/output).
-- 🔄 Control structures (if-else, loops).
+- 🔄 Control structures (if-else, loops, switch).
+- 🛠️ Mini-projects and practice problems.
 
 ## ⚠️ Notes
 

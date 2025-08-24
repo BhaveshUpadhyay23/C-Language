@@ -9,4 +9,7 @@ int main(){
     To Run
     gcc <file-name> 
     ./a.exe
+
+    NOTES
+    "" and '' are different
 */

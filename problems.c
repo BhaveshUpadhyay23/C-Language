@@ -30,4 +30,3 @@ int arithmetic(){
 int main(){
     arithmetic();
 }
-

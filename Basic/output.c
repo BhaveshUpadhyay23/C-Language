@@ -6,7 +6,7 @@
         printf("pi if %f", pi);
 
     3. Characters
-        printf("hashtag %c", hashtag);
+        printf("hashtag %c", #);
 
 
     printf() is a library function

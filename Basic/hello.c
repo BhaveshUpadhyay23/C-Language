@@ -5,11 +5,3 @@ int main(){
     return 0;
 }
 
-/*
-    To Run
-    gcc <file-name> 
-    ./a.exe
-
-    NOTES
-    "" and '' are different
-*/
